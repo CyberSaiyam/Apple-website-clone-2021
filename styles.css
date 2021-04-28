@@ -78,6 +78,7 @@ header {
 }
 
 .imac {
+  margin-top: 4rem;
   background: url("images/hero/iMac/imac_large.jpg");
 }
 
@@ -237,7 +238,7 @@ footer{
     padding: 0;
   }
 
-  .iphone-12-pro {
+  .imac {
     margin-top: 4.8rem;
   }
 
